@@ -9,7 +9,7 @@ Example:
 $ python3 rubiks.py
 Move: R L U2 R' F2 L2 D' L' R' B R' D R2 L' D' U' L R' U R B' U' L2 R' D
 
-After move: 'R L U2 R' F2 L2 D' L' R' B R' D R2 L' D' U' L R' U R B' U' L2 R' D'
+After move: "R L U2 R' F2 L2 D' L' R' B R' D R2 L' D' U' L R' U R B' U' L2 R' D"
 F: W B Y
 F: W G B
 F: W B Y
