@@ -331,5 +331,5 @@ if __name__ == "__main__":
 
         rubiks_cube.move(move)
 
-        print(f"\nAfter move: '{move}'")
+        print(f"\nAfter move: \"{move}\"")
         rubiks_cube.display(debug=False)
